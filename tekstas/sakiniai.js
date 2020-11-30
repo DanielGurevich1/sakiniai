@@ -1,1 +1,11 @@
-const sakinys = ""
+let string = 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur repudiandae, reprehenderit maxime cupiditate eos consectetur, quis earum officiis perferendis libero quas aliquid eum nihil molestias veritatis eaque. At, ab quidem!';
+'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ex consequuntur earum doloribus, doloremque quas esse omnis quaerat, perferendis iure, veritatis veniam! Sint quam dolores neque deleniti a! Eveniet, assumenda inventore!'
+'Vero error, iusto enim beatae minima nihil voluptates accusantium sit quia delectus, non dicta labore. Laboriosam, illo explicabo incidunt maiores autem dignissimos eos, quia debitis nihil omnis ducimus unde nisi!'
+'Tempore voluptatibus possimus vero delectus accusamus nesciunt vitae quibusdam nam necessitatibus ipsam. Fugit tenetur ad est possimus, laboriosam porro quasi consequatur esse odio libero aperiam voluptas sequi officia, iure eaque?'
+'Voluptatibus facilis distinctio in et molestias asperiores inventore cum hic ab illo repellendus placeat debitis vel atque nemo molestiae, dolorem doloremque expedita! Explicabo eum sapiente molestias et dignissimos accusantium ad.';
+'Eligendi nobis asperiores aliquid incidunt quos quia, nostrum impedit. Modi praesentium perspiciatis magni esse, ratione velit a harum voluptas enim molestiae totam laudantium explicabo eveniet dolorum vero beatae id nulla.';
+
+
+
+
+export { string } 
